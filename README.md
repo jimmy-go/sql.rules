@@ -1,0 +1,2 @@
+# sql.rules
+SQL conventions.
